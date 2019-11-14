@@ -1,6 +1,12 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Noor's Project
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+![All of the images below are part of my website that show what my plans are in the future. This is the first image.](/myimage1.png)
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+![This is the second image.](img/myimage2.png)
+
+![This is the third image.](img/myimage3.png)
+
+![This is the third image.](img/myimage4.png)
+
+![This is the third image.](img/myimage5.png)
